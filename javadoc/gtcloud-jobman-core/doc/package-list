@@ -1,0 +1,8 @@
+gtcloud.jobman.core.client
+gtcloud.jobman.core.common
+gtcloud.jobman.core.pdo
+gtcloud.jobman.core.processor
+gtcloud.jobman.core.processor.main
+gtcloud.jobman.core.scheduler
+gtcloud.jobman.core.scheduler.main
+gtcloud.jobman.core.test

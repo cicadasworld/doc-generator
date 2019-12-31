@@ -1,0 +1,6 @@
+Sub ApplyTable()
+Dim t As Table
+For Each t In ActiveDocument.Tables
+t.AutoFitBehavior (wdAutoFitWindow)
+Next
+End Sub
